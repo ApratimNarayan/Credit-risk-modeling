@@ -1,4 +1,5 @@
-PD model script contains a term loan data for individuals, there are 10 steps done to complete my term loan logistic selection model.
+PD model script contains a term loan data for individuals, there are 10 steps done to complete my term loan logistic selection model. 
+Objective of this model to asses if an individual with certain attribute would be given a term loan or not.
 1. Loading data
 2. test n control data creation
 3. Categorical variable selection
